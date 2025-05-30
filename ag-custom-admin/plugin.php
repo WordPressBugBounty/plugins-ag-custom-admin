@@ -4,7 +4,7 @@ Plugin Name: AGCA - Custom Dashboard & Login Page
 Plugin URI: https://cusmin.com/agca
 Description: CHANGE: admin menu, login page, admin bar, dashboard widgets, custom colors, custom CSS & JS, logo & images
 Author: Cusmin
-Version: 7.2.5
+Version: 7.2.6
 Text Domain: ag-custom-admin
 Domain Path: /languages
 Author URI: https://cusmin.com/
@@ -28,7 +28,7 @@ Author URI: https://cusmin.com/
 $agca = new AGCA();
 
 class AGCA{
-    private $agca_version = "7.2.5";
+    private $agca_version = "7.2.6";
     private $colorizer = "";
     private $agca_debug = false;
     private $admin_capabilities;

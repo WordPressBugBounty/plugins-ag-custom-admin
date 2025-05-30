@@ -3,8 +3,8 @@ Contributors: cusmin
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=agca@cusmin.com&amount=10&item_name=Support+for+AGCA+Development
 Tags: custom dashboard, custom menu, custom admin, custom login, white label
 Requires at least: 3.0
-Tested up to: 6.5.2
-Stable tag: 7.2.5
+Tested up to: 6.8.1
+Stable tag: 7.2.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl.txt
 
@@ -74,7 +74,7 @@ With this plugin you can easily customize WordPress **admin panel**, **login pag
 * Round corners on login boxes
 * Hide register and lost password links
 * Change hyperlink on register button
-	
+
 = Admin Menu Options =
 * Rename menu and sub-menu items
 * Hide menu and sub-menu items
@@ -87,9 +87,9 @@ With this plugin you can easily customize WordPress **admin panel**, **login pag
 * Add custom branding image above the admin menu
 * Add custom link to branding image
 * Change admin menu auto-folding settings
-	
+
 = Colorizer =
-* Change background and text colors on admin and login page	
+* Change background and text colors on admin and login page
 * Change admin menu colors
 * Change widget colors
 
@@ -162,6 +162,9 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 == Change Log ==
 
+= 7.2.6 =
+* Maintenance release
+
 = 7.2.5 =
 * Removed outdated session-related code
 
@@ -176,6 +179,9 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 [SEE ALL LOGS](https://plugins.svn.wordpress.org/ag-custom-admin/trunk/changelog.txt)
 
 == Upgrade Notice ==
+
+= 7.2.6 =
+* Maintenance release
 
 = 7.2.5 =
 * Removed outdated session-related code
